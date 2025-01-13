@@ -38,7 +38,7 @@ To analyze bicycle sales data and create an interactive dashboard that provides 
 
 ## 📷 **Dashboard Preview**
 
-![Dashboard Screenshot](Screenshot 2025-01-12 230348.png)
+![Dashboard Screenshot](https://github.com/sshankt/Bicycle_sales_dashboard/blob/main/Screenshot%202025-01-12%20230348.png)
 
 ---
 
@@ -46,7 +46,7 @@ To analyze bicycle sales data and create an interactive dashboard that provides 
 
 1. Clone this repository to your local machine:
    ```bash
-   git clone https://github.com/your-username/bicycle-sales-dashboard.git
+   git clone https://github.com/sshankt/bicycle-sales-dashboard.git
    ```
 
 2. Open the Excel file in the repository.
